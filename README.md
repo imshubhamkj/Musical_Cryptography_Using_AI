@@ -5,6 +5,9 @@ Instructions for running:
 
 1. Install the required libraries
 2. Run init.py 
+3. Output.wav will be generated in "notes" directory 
+4. Sender shall send output.wav to the receiver 
+5. Receiver has to run decode.py on the received audio to get the message.
 
 
 
